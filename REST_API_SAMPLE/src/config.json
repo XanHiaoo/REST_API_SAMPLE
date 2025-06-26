@@ -1,0 +1,16 @@
+{
+    "BankWidthDetect": {
+        "description": "This is a Bank Width Detection task.",
+        "status": "success"
+    },
+    "ImageQualityDetect": {
+        "description": "This is an Image Quality Detection task.",
+        "status": "success"
+    },
+    "PixelAnalysis": {
+        "description": "This is a Pixel Analysis task.",
+        "status": "running"
+    },
+    "SystemVersion": "1.0.0",
+    "MaxClients": 100
+}
